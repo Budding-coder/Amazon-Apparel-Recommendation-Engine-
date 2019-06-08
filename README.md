@@ -26,3 +26,5 @@ The recommendation engine, uses information about 1,80,000 products and each pro
 9. reviews
 10. product_type_name ....
 
+
+Dataset : https://drive.google.com/file/d/1pLSMmJNzmlkQhwSHhecDwHcb0C8mzG0Q/view?usp=sharing
